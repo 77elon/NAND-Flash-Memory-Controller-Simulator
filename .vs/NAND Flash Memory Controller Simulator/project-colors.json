@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ca0b2f3a-9691-4423-be81-bad409f51d20": {
+      "ProjectGuid": "ca0b2f3a-9691-4423-be81-bad409f51d20",
+      "DisplayName": "Create a NAND Flash Memory Controller Simulator",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
